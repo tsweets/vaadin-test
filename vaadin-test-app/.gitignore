@@ -1,11 +1,8 @@
-**target
-**/frontend/generated
-**node_modules
+/target/
 .idea/
 .vscode/
 .settings
 .project
-
 .classpath
 
 *.iml
